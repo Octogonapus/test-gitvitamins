@@ -1,1 +1,0 @@
-{"type" : "defaultBattery", "vitamin" : {"cadGenerator" : {"filename" : "", "gitUrl" : ""}, "capacity" : 12.0, "centerOfMass" : {"x" : 0.0, "y" : 0.0, "z" : 0.0}, "current" : 4.1, "dischargeRate" : 16.0, "height" : 5.0, "length" : 30.0, "specs" : {"chemistry": "Li-ion"}, "voltage" : 12.0, "weight" : 100.0, "width" : 19.0}}
